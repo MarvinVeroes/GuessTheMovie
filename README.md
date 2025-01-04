@@ -20,5 +20,19 @@ Un juego basado en el clásico "Ahorcado" donde los jugadores deben adivinar el 
    - Adivinar una letra
    - Adivinar el titulo completo
    - Salir del juego
-4. ¡Suma puntos y entra al ranking
+4. ¡Suma puntos y entra al ranking!
 ---
+
+## 🛡️Validaciones del programa
+- **Opciones del menu:** Solo se aceptaran valores entre '1' y '3'.
+- **Letras** Valida que sea una letra lo que ingresa el usuario en alguna de las opciones.
+---
+
+## 📝Notas adicionales
+- **Ranking de opciones:** Una vez terminada la partida aparecera el ranking, en caso de no poder ingresar al ranking debido a que no da el minimo de puntuacion, simplemente se mostrara por consola
+---
+
+## ✍️Autor
+- Nombre: Marvin Veroes
+- Fecha de creacion: 04/01/2025
+- Contacto: MarvinVeroes
